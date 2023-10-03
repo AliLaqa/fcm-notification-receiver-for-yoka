@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "108233531901",
+    "project_id": "notification-sender-model",
+    "storage_bucket": "notification-sender-model.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108233531901:android:9a424f2f9348605d347994",
+        "android_client_info": {
+          "package_name": "com.app_xpert.notification_receiver_yoka.notification_receiver_yoka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkubNB5c5ThdYgClv0giqbKlzdY_VAP8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108233531901:android:ffc4958fd6a1f50a347994",
+        "android_client_info": {
+          "package_name": "com.app_xpert.notification_recevier.notification_recevier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkubNB5c5ThdYgClv0giqbKlzdY_VAP8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108233531901:android:e28ef47fce016f19347994",
+        "android_client_info": {
+          "package_name": "com.app_xpert.notification_sender.notification_sender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkubNB5c5ThdYgClv0giqbKlzdY_VAP8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
